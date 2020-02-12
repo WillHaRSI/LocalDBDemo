@@ -1,0 +1,11 @@
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\bin\Debug\netcoreapp2.2\LocalDBDemo.deps.json
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\bin\Debug\netcoreapp2.2\LocalDBDemo.runtimeconfig.json
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\bin\Debug\netcoreapp2.2\LocalDBDemo.runtimeconfig.dev.json
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\bin\Debug\netcoreapp2.2\LocalDBDemo.dll
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\obj\Debug\netcoreapp2.2\LocalDBDemo.csprojAssemblyReference.cache
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\obj\Debug\netcoreapp2.2\LocalDBDemo.csproj.CoreCompileInputs.cache
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\obj\Debug\netcoreapp2.2\LocalDBDemo.AssemblyInfoInputs.cache
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\obj\Debug\netcoreapp2.2\LocalDBDemo.AssemblyInfo.cs
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\bin\Debug\netcoreapp2.2\LocalDBDemo.pdb
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\obj\Debug\netcoreapp2.2\LocalDBDemo.dll
+C:\Users\william.ha\Source2\LocalDBDemo\LocalDBDemo\obj\Debug\netcoreapp2.2\LocalDBDemo.pdb

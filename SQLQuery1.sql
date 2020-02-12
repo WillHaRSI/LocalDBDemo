@@ -1,0 +1,1 @@
+﻿SeLECT * FROM StringTable
